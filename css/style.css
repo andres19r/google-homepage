@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+}
+nav {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 15px;
+	align-items: center;
+}
+nav .nav-item {
+	margin-right: 18px;
+}
+nav .nav-item a {
+	text-decoration: none;
+	color: #282828;
+	font-size: 13px;
+	font-family: Arial, sans-serif;
+}
+nav .nav-item img {
+	border-radius: 50%;
+}
+
